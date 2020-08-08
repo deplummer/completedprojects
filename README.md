@@ -2,7 +2,7 @@ This repository is a compilation of past projects in my journey to becoming a fu
 
 Best wishes in your journey to becoming a programmer!
 
-Daniel Eugene Plummer
+Daniel Eugene Plummer<br>
 Master of Science - Mathematics 2019
 Howard University, Washington, D.C.
 Mathematician, Cryptographer, and Full Stack Java Software Developer
