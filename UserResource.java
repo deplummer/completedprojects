@@ -109,12 +109,12 @@ public class UserResource {
 	}
 
 	public Object retrieveUser(User any) {
-		// TODO Auto-generated method stub
+		
 		return null;
 	}
 
-	public int retrieveUser(String passenger, String id) {
-		// TODO Auto-generated method stub
+	public int retrieveUser(String person, String id) {
+		
 		return 0;
 	}
 }
